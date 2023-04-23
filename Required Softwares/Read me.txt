@@ -1,1 +1,0 @@
-Please Un-Zip the "Required Sofware.7z.001" using 7zip and make sure the files get placed in the "Required Sofware" folder.
